@@ -24,4 +24,9 @@ Forecasting models such as Linear Regression, ARIMA, SARIMA, and Random Forest w
 
 This project demonstrates how data analytical tools and machine learning techniques can support demand forecasting and decision-making in the energy sector.
 Power BI Dashboard:- 
+
+
+
+
+
 <img width="554" height="312" alt="image" src="https://github.com/user-attachments/assets/769295b3-7f31-4fa5-8aa6-2e19142bd851" />
