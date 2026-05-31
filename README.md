@@ -3,6 +3,7 @@
 This project focuses on forecasting energy demand in the German energy sector using Data Analytics, Machine Learning, and Business Intelligence tools. Historical energy demand, consumption, and weather datasets were analyzed to identify trends, seasonal patterns, and future demand behavior.
 
 The project includes:
+
 ✔ Data Cleaning & Preprocessing  
 ✔ Exploratory Data Analysis (EDA)  
 ✔ Demand Forecasting using Machine Learning  
